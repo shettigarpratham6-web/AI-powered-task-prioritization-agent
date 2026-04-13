@@ -134,11 +134,7 @@ python main.py
 * Clean Python project architecture
 * Real-world AI application development
 
----
 
-
-
----
 
 ## 🌟 Support
 
